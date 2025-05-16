@@ -2,7 +2,7 @@
 
 Dashboard Design
 
-For the task StarBucks Data set has been utilized which included 2 csv files Orders_Table & Products_Table.
+For the task, StarBucks Data set has been utilized which included 2 csv files Orders_Table & Products_Table.
 
 The files were cleaned and transformed using Power Query Editor in PowerBI.
 
